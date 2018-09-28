@@ -1,6 +1,6 @@
 # npm-link-shared
 
-[![Version](https://img.shields.io/npm/v/npm-link-shared.svg)](https://www.npmjs.com/package/npm-link-shared)
+[![Version](https://img.shields.io/npm/v/npm-link-shared.svg?colorB=yellowgreen)](https://www.npmjs.com/package/npm-link-shared)
 [![Build Status](http://img.shields.io/travis/OrKoN/npm-link-shared.svg?style=flat)](https://travis-ci.org/OrKoN/npm-link-shared)
 [![Downloads](https://img.shields.io/npm/dm/npm-link-shared.svg)](https://www.npmjs.com/package/npm-link-shared)
 [![Dependencies](https://img.shields.io/david/OrKoN/npm-link-shared.svg)](https://github.com/OrKoN/npm-link-shared/blob/master/package.json#L19)
